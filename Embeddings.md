@@ -61,4 +61,4 @@
 ## Bias and Embeddings
 - Embedding models capture and amplify the biases of the texts that they were trained off of - e.g. gender and racial stereotypes
 ## Evaluating Embedding Models
-- One common evaluation is through **similarity** performance, comparing the correlation between an algorithm's word similarity scores and the word similarity score ratings assigned by humans
+- One common evaluation is through **similarity** performance, comparing the correlation between an algorithm's word similarity scores and the word similarity score ratings assigned by humans 
